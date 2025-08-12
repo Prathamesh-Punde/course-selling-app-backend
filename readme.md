@@ -112,6 +112,3 @@ Make sure to set up your `.env` file with the required variables before running 
 
 This project is licensed under the ISC License.
 
-## Support
-
-For support or questions, please contact the development team.
